@@ -1,0 +1,1 @@
+web: gunicorn vital-hello-world.wsgi
