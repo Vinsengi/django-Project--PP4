@@ -1,1 +1,1 @@
-web: gunicorn vital-hello-world.wsgi
+web: gunicorn my-my_project.wsgi
